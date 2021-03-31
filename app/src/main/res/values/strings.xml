@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="head">將頭腳切齊圖片邊緣</string>
+</resources>
